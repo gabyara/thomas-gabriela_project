@@ -1,0 +1,14 @@
+.Nav{
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.9) 31.74%, rgb(57, 57, 57) 48.5%, rgba(0, 0, 0, 0.9) 65.27%);
+    color: #f8f9fa;
+}
+text{
+    color: #f8f9fa;
+}
+img text{
+    width: 25%;
+
+}
+.card{
+    width: 35% !important;
+}

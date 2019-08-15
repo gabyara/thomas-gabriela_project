@@ -5,5 +5,5 @@ Desde la terminal de comandos
 
 **1.-** Realizar un **npm install**  en la carpeta raiz del proyecto.
 **2.-** Realizar un **npm install** en la carpeta **Client**.    
-**3.-** En la carpeta raiz del proyecto, ejecutar el siguiente comando **npm install --save yarn-install**.     
+**3.-** En la carpeta raiz del proyecto, ejecutar el siguiente comando para installar yarn, **npm install --save yarn-install**.     
 **4.-** Para ejecutar la aplicación, desde la carpeta raiz, se procede a introducir el comando **yarn dev**.  
